@@ -1,2 +1,2 @@
-# lecture0
+# repoTutor
 Python and JavaScript in web applications
